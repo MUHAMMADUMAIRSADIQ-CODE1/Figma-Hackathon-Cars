@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bt{
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #1572D3;
+}
+.heading{
+font-size: 48px;
+font-weight: 600;
+}
+.sub-heading{
+    font-size: 18px;
+font-weight: 400;
+}
+.bte{
+    padding: 10px 40px;
+     border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: #1572D3;
+}
+.head{
+    background-color: #1572D31A;
+    padding: 5px 15px;
+    border: none;
+    border-radius:5px ;
+    color: #1572D3;
+    font-size: 13px;
+}
+.stars{
+     color: #ffc107;
+     font-size: 30px;
+}
+.footer{
+    background-color: #051C34;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
