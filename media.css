@@ -7,6 +7,9 @@ font-weight: 600;
 .u img{
  width: 100%;
 }
+.border-end{
+   border: none !important;
+}
  }
  @media (max-width: 768px){
    
